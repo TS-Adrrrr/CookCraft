@@ -1,5 +1,6 @@
 {
 	chapter_groups: [
+		{ id: "3FB8770C18973A8E", title: "Progress" }
 		{ id: "56A29CC63F216935", title: "Completionist's Dream" }
 		{ id: "541666FFE70E8564", title: "idk yet" }
 		{ id: "66334EA7D5F7A589", title: "First we forage..." }
